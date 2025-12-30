@@ -2,7 +2,7 @@
 
 <h2>1001件のTwitter投稿のサンプルデータセット</h2>
 
-![Twitter dataset header](https://github.com/luminati-io/Twitter-X-dataset-samples/blob/main/twitter-datasets.PNG)
+![Twitter dataset header](https://github.com/bright-jp/Twitter-X-dataset-samples/blob/main/twitter-datasets.PNG)
 
 1000件以上の投稿を含むTwitterデータセットのサンプルです。データセットは <b>Bright Data API</b> を使用して抽出されました。
 
