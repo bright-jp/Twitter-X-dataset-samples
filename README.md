@@ -1,4 +1,4 @@
-# Twitter-dataset-samples
+# Twitter データセットサンプル
 
 <h2>1001件のTwitter投稿のサンプルデータセット</h2>
 
